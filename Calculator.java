@@ -19,13 +19,10 @@ class Calculator{
 			break;
 		    case '*':
 			res = num1*num2;
-<<<<<<< HEAD
-=======
 			System.out.println(res);
 			break;
 		    case '/':
 			res = num1/num2;
->>>>>>> aa7dc3fea65c1249c633ae44b11095842509306b
 			System.out.println(res);
 			break;
 		    
