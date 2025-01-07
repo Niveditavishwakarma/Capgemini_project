@@ -18,9 +18,10 @@ class Calculator{
 			System.out.println(res);
 			break;
 		    case '*':
-			res = num1-num2;
+			res = num1*num2;
 			System.out.println(res);
 			break;
+		    
 		    
 		    default:
 			System.out.println("invalid operation");
